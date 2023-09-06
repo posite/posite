@@ -3,7 +3,7 @@
 <div align=center><h1>👤 Me </h1></div>
 
 <div align=center>
- <a href="https://positecoding.tistory.com/"><img src="https://img.shields.io/badge/Blog-000000?style=flat-square&logo=Tistory&logoColor=white"/></a>
+
  <a href="mailto:su84053@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=flat-square&logo=Mail.Ru&logoColor=white"/></a>
 </div>
 
