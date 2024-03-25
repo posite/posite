@@ -12,16 +12,21 @@
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white">
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=Android&logoColor=white">
   <img src="https://img.shields.io/badge/Java-996600?style=for-the-badge&logo=OpenJdk&logoColor=white">
- <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white">
+  <img src="https://img.shields.io/badge/Retrofit-3E4348?style=for-the-badge&logo=square&logoColor=white"/>
+ <br>
+ <img src="https://img.shields.io/badge/Hilt-4559d3?style=for-the-badge&logo=Hilt&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Coroutine-921679?style=for-the-badge&logo=Hilt&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Flow-c8564f?style=for-the-badge&logo=Hilt&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Lottie-fe8bf6?style=for-the-badge&logo=Hilt&logoColor=white"/>
 </div>
 <div align=center><h1>🛠️ Tools </h1></div>
 <div align=center>
  <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=for-the-badge&logo=Android Studio&logoColor=white">
  <img src="https://img.shields.io/badge/GitKraken-179287?style=for-the-badge&logo=GitKraken&logoColor=white">
  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white">
- <br>
- <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=white">
  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white">
+
 
 </div>
 
