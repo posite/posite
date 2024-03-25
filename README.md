@@ -4,7 +4,7 @@
 
 <div align=center>
 
- <a href="mailto:su84053@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=flat-square&logo=Mail.Ru&logoColor=white"/></a>
+ <a href="mailto:su84053@gmail.com"><img src="https://img.shields.io/badge/su84053@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 </div>
 
 <div align=center><h1>📚 Stacks </h1></div>
