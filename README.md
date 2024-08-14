@@ -51,5 +51,6 @@
  |:----:|:----:|:----:|:----:|
  |<a href="https://github.com/posite/Android-Clean-Architecture-with-retrofit">Clean + Retrofit</a>|Clean Architecture, Hilt, Retrofit|<a href="https://github.com/posite/Mondern-Android">Modern-Android</a>|Compose, Room, Hilt, Retrofit, Moshi|
  |<a href="https://github.com/posite/Bluetooth-exercise">Bluetooth-exercise</a>|Bluetooth|<a href="https://github.com/posite/Android-Service-BroadcastReceiver-ContentProvider-exercise">Special Components</a>|Service, BroadcastReceiver, ContentProvider|
+ |<a href="https://github.com/posite/KoinEx">Koin + Retrofit/Ktor</a>|Koin, Retrofit, Ktor|
 
 </div>
