@@ -7,6 +7,7 @@
 <div align=center>
 
  <a href="mailto:su84053@gmail.com"><img src="https://img.shields.io/badge/su84053@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
+ <a href="https://positecoding.tistory.com"><img src="https://img.shields.io/badge/posite의 개발 공부방-FA5945?style=flat-square&logo=tistory&logoColor=white"/></a>
 </div>
 
 <div align=center><h1>📚 Stacks </h1></div>
